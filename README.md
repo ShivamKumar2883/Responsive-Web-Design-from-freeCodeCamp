@@ -1,7 +1,3 @@
-Here's a description you can use for creating a GitHub repository named "Responsive Web Design from freeCodeCamp":
-
----
-
 ### Responsive Web Design from freeCodeCamp
 
 This repository contains projects and exercises from the **Responsive Web Design** certification by freeCodeCamp. The certification covers a wide range of topics to help you build modern, responsive websites using HTML and CSS.
@@ -40,7 +36,7 @@ Each project emphasizes different aspects of responsive web design and challenge
 To get started, clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/Responsive-Web-Design-from-freeCodeCamp.git
+git clone https://github.com/ShivamKumar2883/Responsive-Web-Design-from-freeCodeCamp.git
 ```
 
 Navigate to the folder of the module or project you want to work on and open the HTML files in your browser or your preferred code editor.
